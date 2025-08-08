@@ -303,6 +303,10 @@ color: #4d5ae5;
               0px 2px 1px rgba(46, 47, 66, 0.08);
   }
 
+  .svg-team {
+    fill: #FFFFFF;
+  }
+
   .team-title {
     text-align: center;
     margin-bottom: 8px;
