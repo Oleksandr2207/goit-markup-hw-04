@@ -326,7 +326,7 @@ color: #4d5ae5;
     display: flex;
     justify-content: center;
     gap: 24px;
-    padding-top: 8px;
+    margin-top: 8px;
   }
 
   .team-icon {
@@ -522,6 +522,8 @@ color: #4d5ae5;
 .footer-icon:focus {
   background-color: #31d0aa;
 }
+
+
 
 
 
